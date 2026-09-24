@@ -1,0 +1,1 @@
+# Regresion-de-componentes-principales-S-P500
